@@ -1,0 +1,30 @@
+.footer {
+	position: absolute;
+	bottom: 0;
+	height: 60px;
+	width: 100%;
+	background-color: #d2393b;
+	color: white;
+	text-align: center;
+}
+
+.con1 {
+	margin-bottom: 10%;
+}
+
+.p1 {
+	padding-top: 1%;
+}
+
+.p2 {
+	font-size: large;
+}
+
+.bord {
+	border-top: 1px solid black;
+	padding-top: 3%;
+}
+
+a:link {
+	text-decoration: none;
+}
